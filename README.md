@@ -1,2 +1,2 @@
-# Govee-CLI-GUI
+# Govee-GUI
  
