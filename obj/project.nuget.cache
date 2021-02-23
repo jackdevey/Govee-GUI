@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "R/rEoIHIA8Nyi3M/UetUpPOBIcKRjija/w/SrzUlDK0j4UbxHpZ1iT6rTvtbhEDjrRR90hB3i4HcCJVsZ1D8LQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jackw\\source\\repos\\GoveeAPI\\GoveeAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jackw\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
